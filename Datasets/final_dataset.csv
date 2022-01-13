@@ -1,0 +1,164 @@
+,type,department,semester,section,gender,age,height,weight,fav_sport,act_level,current_btype,meals,sleep,goal
+0,,CSE,6th,A,Male,21,1.8288,68,Gym,high moderate,fit,5,6,Get FIT
+1,Faculty,CSE,,NONE,Male,36,1.7526,71,Football,low,fit,2,5,Get FIT
+2,Student,CSE,6th,NONE,Male,25,1.8034000000000001,52,Volleyball,low,skinny,4,6,Gain-weight
+3,Student,CSE,6th,A,Male,21,1.8034000000000001,60,Cricket,moderate,skinny,3,6,Gain-weight
+4,Student,CSE,6th,NONE,Female,20,1.5748,30,Racing,moderate,fit,3,7,Get FIT
+5,Student,CSE,6th,B,Male,22,1.6256,62,Cricket,moderate,fit,3,7,Get FIT
+6,Student,CSE,6th,A,Male,20,1.6256,50,None,low,weak,5,8,Gain-weight
+7,Student,CSE,6th,A,Male,22,1.7018,90,Cricket,low,fat,3,6,Lose-Weight
+8,Student,CSE,6th,B,Male,20,1.6764000000000001,48,Football,low,skinny,3,8,Gain-weight
+9,Student,CSE,6th,B,Male,21,1.778,65,Cricket,low,skinny,3,7,Gain-weight
+10,Faculty,ECE,,NONE,Female,35,1.5748,65,Badminton,low,fit but also fat,3,7,Lose-Weight
+11,Student,CSE,6th,A,Male,22,1.905,62,Basketball,low,weak,2,8,Gain-weight
+12,Student,CSE,6th,B,Female,20,1.6256,60,Volleyball,moderate,fit but also fat,3,8,Lose-Weight
+13,Student,ECE,8th,NONE,Male,21,1.7526,70,Cricket,high moderate,fit,3,7,Gain-weight
+14,Student,ECE,6th,NONE,Female,20,1.5493999999999999,48,Table Tennis ,moderate,fit,2,8,Get FIT
+15,Student,ECE,6th,NONE,Female,20,1.3716,48,Cricket,moderate,fit but also fat,3,8,Lose-Weight
+16,Student,ECE,6th,NONE,Male,20,1.524,42,Gym,high moderate,fit,3,8,Gain-weight
+17,Student,ECE,6th,NONE,Female,20,1.6256,50,Gym,very high,fit,3,8,Get FIT
+18,Student,ECE,6th,NONE,Female,18,1.6256,49,Football,moderate,fit but also fat,3,7,Get FIT
+19,Student,ECE,4th,NONE,Male,19,1.905,80,Volleyball,high moderate,fit,3,8,Get FIT
+20,Student,ECE,4th,NONE,Male,18,1.6764000000000001,52,Cricket,high moderate,skinny,3,7,Gain-weight
+21,Student,ECE,6th,NONE,Female,21,1.5748,40,Gym,low,weak,3,7,Gain-weight
+22,Student,ECE,4th,NONE,Male,19,1.8542,70,Basketball,high moderate,fit but also fat,3,7,Get FIT
+23,Faculty,CSE,,NONE,Female,36,1.6256,70,Badminton,low,fit but also fat,2,7,Lose-Weight
+24,Faculty,ECE,,NONE,Female,39,1.651,69,Cricket,low,fit but also fat,3,6,Get FIT
+25,Student,ECE,6th,NONE,Female,22,1.524,42,Badminton,moderate,fit,2,8,Lose-Weight
+26,Student,ECE,4th,NONE,Male,19,1.8034000000000001,80,Cricket,low,fit but also fat,3,6,Gain-weight
+27,Student,ECE,4th,NONE,Female,20,1.524,37,Cricket,hypteractive,skinny,3,8,Gain-weight
+28,Student,CSE,6th,A,Male,22,1.7526,60,Basketball,moderate,fit,3,7,Get FIT
+29,Student,CSE,4th,NONE,Male,19,1.8542,90,Cricket,moderate,fit but also fat,3,6,Lose-Weight
+30,Student,CSE,4th,NONE,Male,25,1.8034000000000001,65,Gym,very high,fit,3,7,Get FIT
+31,Student,CSE,4th,NONE,Male,21,1.6764000000000001,52,Cricket,moderate,fit,3,6,Get FIT
+32,Student,CSE,4th,A,Male,20,1.651,50,Volleyball,high moderate,fit,3,8,Gain-weight
+33,Student,CSE,4th,B,Female,19,1.524,50,Cricket,moderate,fit but also fat,3,5,Lose-Weight
+34,Student,CSE,6th,B,Female,21,1.4478,69,Cricket,moderate,fit but also fat,2,6,Get FIT
+35,Faculty,CSE,,NONE,Female,43,1.6002,93,Chess,moderate,fat,2,5,Get FIT
+36,Student,CSE,4th,NONE,Male,19,1.7272,66,Cricket,hypteractive,fit but also fat,3,8,Get FIT
+37,Student,CSE,6th,A,Female,19,1.6256,44,Table tennis,moderate,fit,2,8,Get FIT
+38,Student,CSE,6th,NONE,Female,19,1.5493999999999999,38,Football,moderate,fit,4,8,Get FIT
+39,Student,CSE,6th,A,Female,20,1.6764000000000001,44,Basketball,low,fit,3,6,Get FIT
+40,Student,CSE,6th,A,Male,21,1.7018,65,Volleyball,moderate,weak,3,6,Gain-weight
+41,Student,CSE,6th,NONE,Male,19,1.8034000000000001,80,Gym,moderate,fit,3,8,Get FIT
+42,Faculty,CSE,,NONE,Female,43,1.6764000000000001,63,Cricket,moderate,fit,2,6,Lose-Weight
+43,Student,CSE,6th,B,Male,20,1.8034000000000001,58,Cricket,moderate,skinny,2,6,Gain-weight
+44,Student,CSE,6th,B,Female,21,1.6002,42,Gym,very high,skinny,3,8,Gain-weight
+45,Student,CSE,6th,A,Male,21,1.7526,73,Gym,very high,fit but also fat,2,7,Lose-Weight
+46,Student,CSE,6th,B,Female,20,1.5748,52,Gym,very high,fit,2,7,Get FIT
+47,Student,CSE,6th,A,Female,20,1.6002,48,Cricket,low,fit,2,7,Get FIT
+48,Student,CSE,,NONE,Female,20,1.651,70,Gym,high moderate,fit but also fat,4,8,Lose-Weight
+49,Student,CSE,,NONE,Male,18,1.778,68,Gym,high moderate,fit,4,8,Gain-weight
+50,Student,CSE,,NONE,Female,18,1.7272,70,Basketball,moderate,fit but also fat,2,8,Lose-Weight
+51,Student,CSE,,NONE,Male,17,1.8034000000000001,70,Gym,moderate,fit but also fat,3,8,Lose-Weight
+52,Student,CSE,2nd,NONE,Male,20,1.7272,60,Cricket,moderate,skinny,3,8,Get FIT
+53,Student,CSE,,NONE,Male,19,1.7526,79,Cricket,moderate,fit but also fat,3,7,Get FIT
+54,Student,CSE,,NONE,Male,20,1.7018,50,Football,high moderate,fit,3,7,Gain-weight
+55,Student,CSE,,NONE,Female,17,1.7018,65,Cricket,low,fit but also fat,0,8,Lose-Weight
+56,Student,CSE,2nd,NONE,Female,18,1.7272,70,Gym,moderate,fit,2,5,Get FIT
+57,Student,CSE,,NONE,Male,17,1.7018,50,Football,high moderate,weak,4,7,Get FIT
+58,Student,CSE,,NONE,Male,18,1.651,60,Cricket,moderate,weak,5,6,Get FIT
+59,Student,CSE,,NONE,Male,18,1.8034000000000001,50,Volleyball,moderate,weak,2,8,Gain-weight
+60,Student,CSE,,NONE,Male,18,1.6256,60,Cricket,moderate,fit,3,7,Get FIT
+61,Student,CSE,,NONE,Male,19,1.6256,70,Badminton,low,fat,3,6,Get FIT
+62,Student,CSE,,NONE,Male,17,1.651,56,Badminton,low,fit,3,8,Get FIT
+63,Student,CSE,2nd,NONE,Female,17,1.5748,55,Listening songs ,moderate,fit but also fat,3,8,Lose-Weight
+64,Student,CSE,,NONE,Male,17,1.778,80,Cricket,moderate,fit but also fat,3,8,Lose-Weight
+65,Student,CSE,2nd,A,Female,18,1.651,50,Volleyball,very high,fit,4,6,Gain-weight
+66,Student,CSE,,NONE,Male,18,1.8288,72,Gym,high moderate,fit,3,7,Gain-weight
+67,Student,CSE,,NONE,Male,19,1.8034000000000001,56,Basketball,moderate,skinny,3,8,Gain-weight
+68,Student,ME,,NONE,Male,19,1.8288,87,Gym,low,fit but also fat,4,8,Gain-weight
+69,Student,CSE,6th,A,Female,19,1.6256,50,Football,moderate,fit,4,8,Get FIT
+70,Student,CSE,,NONE,Female,18,1.5748,69,Basketball,high moderate,fat,3,6,Get FIT
+71,Student,CSE,,NONE,Male,19,1.7526,75,Cricket,high moderate,fit but also fat,2,8,Get FIT
+72,Student,CSE,,A,Female,20,1.5748,75,Gym,very high,fat,3,7,Lose-Weight
+73,Student,CSE,,NONE,Male,19,1.6256,72,Cricket,low,fit,2,8,Get FIT
+74,Student,CSE,2nd,NONE,Male,19,1.7272,71,Cricket,very high,fit,2,7,Get FIT
+75,Student,CSE,,NONE,Male,18,1.7018,52,Gym,high moderate,weak,3,6,Gain-weight
+76,Student,ME,,NONE,Male,20,1.7018,68,Gym and boxing n kabaddi,very high,fit but also fat,3,8,Get FIT
+77,Student,CSE,6th,B,Male,21,1.6764000000000001,70,Swimming,very high,fit,3,6,Lose-Weight
+78,Student,CSE,,NONE,Male,17,1.6764000000000001,53,Cricket,moderate,fit,3,6,Gain-weight
+79,Student,CSE,,NONE,Female,18,1.5493999999999999,35,Kho-Kho,moderate,weak,3,8,Gain-weight
+80,Student,CSE,2nd,NONE,Female,19,1.5493999999999999,45,Badminton,low,fit,3,8,Gain-weight
+81,Student,CSE,6th,B,Male,20,1.7018,73,Gym,low,fit,3,8,Get FIT
+82,Student,CSE,6th,A,Female,21,1.6256,50,Gym,low,fat,4,8,Lose-Weight
+83,Faculty,CSE,,NONE,Female,28,1.5748,50,None,moderate,fit,3,8,Get FIT
+84,Student,CSE,,NONE,Male,18,1.7272,52,Volleyball,moderate,fit,3,7,Gain-weight
+85,Student,CSE,6th,A,Female,20,1.6764000000000001,50,Cricket,low,fit,3,7,Get FIT
+86,Student,CSE,2nd,NONE,Male,19,1.7526,60,Football,high moderate,skinny,3,5,Get FIT
+87,Student,ME,8th,A,Male,23,1.7272,60,Cricket,moderate,fit,3,7,Gain-weight
+88,Student,ME,6th,NONE,Male,21,1.7272,66,Cricket,high moderate,fit but also fat,3,8,Lose-Weight
+89,Faculty,ME,,NONE,Male,32,1.8288,89,Cricket,moderate,fit but also fat,4,8,Get FIT
+90,Student,ME,6th,NONE,Male,20,1.8034000000000001,85,Gym,very high,fit,3,6,Get FIT
+91,Student,ME,6th,NONE,Male,21,1.6764000000000001,67,Gym,high moderate,fit,2,7,Get FIT
+92,Student,ME,6th,NONE,Male,20,1.7018,54,Cricket,high moderate,fit,2,7,Get FIT
+93,Student,ME,6th,NONE,Male,20,1.6256,48,Football,moderate,fit,0,7,Get FIT
+94,Student,CSE,2nd,NONE,Male,17,1.8288,65,Cricket,very high,fit,2,6,Get FIT
+95,Student,ME,8th,NONE,Male,21,1.7272,78,Football,very high,fit but also fat,3,6,Lose-Weight
+96,Student,CE,,NONE,Male,18,1.524,56,Cricket,very high,fit,3,8,Gain-weight
+97,Student,ME,6th,NONE,Male,21,1.6256,48,Volleyball,low,fit,3,8,Get FIT
+98,Student,ECE,2nd,NONE,Female,19,1.6256,48,Gym,moderate,fit,2,6,Get FIT
+99,Student,CSE,4th,NONE,Female,19,1.5493999999999999,40,Volleyball,moderate,skinny,4,7,Get FIT
+100,Student,CSE,4th,NONE,Male,19,1.778,62,Football,very high,skinny,4,7,Gain-weight
+101,Student,CSE,2nd,NONE,Male,19,1.778,56,Volleyball,moderate,skinny,3,7,Gain-weight
+102,Student,CSE,6th,NONE,Male,20,1.7526,60,Volleyball,moderate,fit,3,8,Gain-weight
+103,Student,CSE,6th,B,Male,21,1.6256,54,Cricket,moderate,fit,3,7,Get FIT
+104,Student,CSE,8th,NONE,Female,23,1.4224,65,Basketball,high moderate,fit but also fat,3,8,Get FIT
+105,Student,ECE,6th,NONE,Female,20,1.5748,45,Gym,moderate,fit,3,7,Get FIT
+106,Student,CSE,8th,NONE,Male,21,1.7018,60,Cricket,moderate,fit but also fat,3,8,Gain-weight
+107,Student,ME,4th,NONE,Male,18,1.778,58,Cricket,moderate,fit,2,6,Get FIT
+108,Student,CSE,6th,B,Male,19,1.8288,78,Gym,very high,fit but also fat,5,6,Lose-Weight
+109,Student,ME,4th,NONE,Male,20,1.7526,68,Gym,moderate,fit but also fat,3,8,Get FIT
+110,Student,CSE,8th,NONE,Male,22,1.7018,74,Gym,very high,fit but also fat,3,6,Get FIT
+111,Student,CE,8th,NONE,Male,20,1.8288,85,Volleyball,moderate,fat,3,7,Lose-Weight
+112,Student,CSE,8th,NONE,Male,23,1.7018,55,Volleyball,moderate,fit,3,7,Gain-weight
+113,Student,CE,8th,NONE,Male,21,1.7272,52,Badminton,moderate,skinny,3,8,Gain-weight
+114,Student,CSE,6th,B,Female,21,1.7018,70,Tannis,low,fat,4,8,Lose-Weight
+115,Student,ME,4th,NONE,Male,19,1.7018,52,Gym,very high,fit,3,5,Gain-weight
+116,Student,CSE,6th,A,Male,21,1.651,60,Cricket,low,fit,3,8,Gain-weight
+117,Student,CSE,4th,NONE,Male,21,1.7272,75,Cricket,moderate,fit,3,7,Get FIT
+118,Student,CSE,4th,NONE,Male,20,1.7272,59,Cricket,moderate,skinny,3,7,Gain-weight
+119,Student,CSE,4th,NONE,Male,20,1.6764000000000001,53,Football,low,weak,3,7,Get FIT
+120,Student,CE,8th,NONE,Male,22,1.651,50,Cricket,low,skinny,3,8,Get FIT
+121,Student,CSE,8th,NONE,Male,19,1.905,94,Cricket,high moderate,fit but also fat,3,8,Get FIT
+122,Student,CSE,8th,NONE,Male,21,1.778,70,Gym,very high,fit but also fat,4,6,Get FIT
+123,Student,CSE,8th,A,Male,21,1.8034000000000001,64,Cricket,low,skinny,3,8,Get FIT
+124,Student,CSE,8th,NONE,Male,21,1.7526,55,Cricket,moderate,fit,4,6,Gain-weight
+125,Student,CSE,8th,NONE,Female,22,1.7018,45,Cricket,moderate,fit,3,8,Gain-weight
+126,Student,CSE,8th,NONE,Male,23,1.8542,83,Basketball,very high,fit,5,6,Gain-weight
+127,Student,CSE,8th,NONE,Male,24,1.7018,60,Gym,high moderate,fit,3,7,Get FIT
+128,Student,CE,6th,NONE,Male,21,1.7018,60,Volleyball,moderate,skinny,4,8,Get FIT
+129,Student,CE,6th,NONE,Male,21,1.8288,68,Gym,very high,fit,5,8,Gain-weight
+130,Student,CE,6th,NONE,Male,20,1.7272,68,Cricket,high moderate,fit but also fat,4,8,Gain-weight
+131,Student,CE,6th,A,Male,19,1.8542,60,Cricket,high moderate,fit,3,8,Gain-weight
+132,Student,ME,8th,NONE,Male,20,1.8288,67,Volleyball,very high,fit,4,8,Get FIT
+133,Student,ME,8th,NONE,Male,21,1.7272,52,Cricket,high moderate,fit,3,7,Gain-weight
+134,Student,CE,6th,NONE,Male,21,1.7526,75,Gym,high moderate,fit but also fat,3,7,Get FIT
+135,Student,CSE,4th,NONE,Male,20,1.778,58,Pubg,low,skinny,3,7,Gain-weight
+136,Student,CSE,4th,B,Male,21,1.8288,65,Gym,moderate,fit but also fat,3,7,Get FIT
+137,Student,CSE,6th,A,Female,21,1.5748,46,Football,low,fit but also fat,2,8,Get FIT
+138,Student,CSE,6th,A,Female,19,1.5748,67,Football,low,fat,3,8,Gain-weight
+139,Student,CSE,6th,A,Female,20,1.7018,40,Cricket,high moderate,skinny,4,8,Gain-weight
+140,Student,CSE,6th,A,Female,20,1.524,40,Basketball,moderate,fit but also fat,3,7,Lose-Weight
+141,Student,CSE,4th,NONE,Male,19,1.7526,64,BadMinton ,low,fit but also fat,2,7,Get FIT
+142,Faculty,CE,,NONE,Male,29,1.778,85,Football,moderate,fit but also fat,3,6,Get FIT
+143,Faculty,AS (for faculty),,NONE,Female,31,1.6764000000000001,65,Basketball,low,fit but also fat,2,7,Lose-Weight
+144,Student,ECE,6th,NONE,Female,21,1.4478,34,Volleyball,low,skinny,2,7,Get FIT
+145,Student,ECE,6th,NONE,Female,20,1.651,45,Cricket,hypteractive,fit,3,6,Get FIT
+146,Student,CSE,4th,NONE,Female,18,1.778,58,Gym,high moderate,fit but also fat,4,8,Get FIT
+147,Student,ME,4th,NONE,Male,20,1.8288,65,Cricket,moderate,weak,3,6,Get FIT
+148,Student,ECE,6th,NONE,Male,29,1.778,58,Chess ,moderate,fit but also fat,3,6,Get FIT
+149,Student,CE,4th,NONE,Male,19,1.651,56,Kabaddi ,high moderate,fit but also fat,3,7,Get FIT
+150,Student,CE,4th,NONE,Male,22,1.8288,80,Gym,low,fit but also fat,2,8,Lose-Weight
+151,Student,CE,4th,NONE,Male,19,1.7526,56,Football,moderate,skinny,3,8,Get FIT
+152,Student,ECE,6th,NONE,Female,21,1.5493999999999999,35,Cricket,moderate,skinny,3,8,Get FIT
+153,Student,CE,4th,NONE,Male,22,1.8542,55,Basketball,low,skinny,3,5,Gain-weight
+154,Student,CE,4th,NONE,Male,18,1.7018,50,Cricket,moderate,skinny,3,7,Get FIT
+155,Faculty,ECE,,NONE,Female,33,1.5493999999999999,65,Bedminton,moderate,fit but also fat,3,6,Get FIT
+156,Student,CSE,6th,A,Female,22,1.524,69,Cricket,moderate,fat,2,7,Lose-Weight
+157,Faculty,CSE,,NONE,Male,40,1.778,83,Badminton ,very high,fit but also fat,2,6,Lose-Weight
+158,Faculty,CSE,,NONE,Male,33,1.7526,59,Football,low,fit,3,8,Get FIT
+159,Student,CSE,6th,B,Male,21,1.8796000000000002,76,Cricket,moderate,fit,3,5,Get FIT
+160,Student,CSE,6th,NONE,Male,19,1.778,66,Cricket,very high,fit,3,7,Get FIT
+161,Student,CSE,4th,NONE,Male,20,1.651,55,Cricket,moderate,skinny,3,6,Gain-weight
+162,Student,CSE,4th,A,Male,20,1.8542,55,Cricket,low,skinny,3,7,Get FIT
